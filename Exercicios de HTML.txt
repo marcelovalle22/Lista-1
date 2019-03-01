@@ -1,0 +1,394 @@
+Questão 1
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<ol>
+<li> Fechamento </li>
+<li> Analise de sistemas</li>
+<ol>
+<li>Avaliaçao </li>
+<ol>
+<li>entrevista </li>
+<li>pesquisa</li>
+</ol>
+<li>Programaçao</li>
+<li>Aprovacão do projeto</li>
+</ol>
+<li> Treinamento</li>
+</ol>
+
+</body>
+</html>
+===============================
+Questão 2
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<ol>
+<li> Titanic  </li>
+<li>Meu Primeiro </li>
+<li> Uma linda mulher</li>
+</ol>
+
+<ol> 
+<li>Exterminador do futuro </li>
+<li>De volta para o futuro</li>
+<li>Idiana jones</li>
+</ol>
+
+<ol>
+<li>Sexta feira</li>
+<li>A hora do passado</li>
+</ol>
+</body>
+</html>
+=============================
+Questão 3
+<img src="https://png.pngtree.com/element_origin_min_pic/16/08/03/1857a1cb7eadc35.jpg" width="200" height="200">
+<spam>kkkkkkkkkkkkkkkkkkkkkkkkkkkbdvcwfv7qwb</spam>
+
+<img src="https://png.pngtree.com/element_origin_min_pic/16/08/03/1857a1cb7eadc35.jpg" width="200" height="200">
+
+=============================
+Questão 4
+<img src="https://png.pngtree.com/element_origin_min_pic/16/08/03/1857a1cb7eadc35.jpg" width="200" height="200" style="float:left">
+<p>s lobos são mamíferos carnívoros, pertencentes à família canidae, a mesma de cães, raposas, etc. É parente bem próximo do cão doméstico (Canis lupus familiaris) e acredita-se que este tenha se originado através da domesticação de lobos cinzentos. Pertencentes ao gênero Canis, há três espécies vivas: Lobo cinzento (Canis lupus) , Lobo vermelho (Canis rufus) e lobo etíope (Canis simensis), as outras são classificadas como subespécies. É um originário da Era do Gelo, mas atualmente, devido à pressão de caça, fragmentação de habitat e mudanças ambientais, encontra-se em poucas áreas do EUA, Canadá, Alasca, Europa e Ásia.</p>
+
+</body>
+</html>
+
+=============================
+Questão 5
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<table ="1">
+<tr>
+<th>Processador</th>
+<th>Velocidade</th>
+<th>Preco de lancamento</th>
+<th>Data de lancamento</th>
+<th>Precos em agosto</th>
+<th>Queda</th>
+
+</tr>
+<tr>
+<td>Amd k-6</td>
+<td>200</td>
+<td>315</td>
+<td>Abril/97</td>
+<td>107</td>
+<td>66</td>
+</tr>
+
+<tr>
+<tr>
+<td>AMD k-6</td>
+<td>233</td>
+<td>437</td>
+<td>Maio/97</td>
+<td>284</td>
+<td>35</td>
+</tr>
+
+
+<tr>
+<td>Cyrix 6x86</td>
+<td>200</td>
+<td>240</td>
+<td>Maio/97</td>
+<td>188</td>
+<td>22</td>
+</tr>
+
+
+<tr>
+<td>Cyrix 6x86</td>
+<td>233</td>
+<td>320</td>
+<td>maio/97</td>
+<td>290</td>
+<td>9</td>
+</tr>
+
+<tr>
+<td>Intel Pentium ll</td>
+<td>233</td>
+<td>636</td>
+<td>Maio/97</td>
+<td>530</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td>Intel Pentium ll</td>
+<td>266</td>
+<td>775</td>
+<td>Maio/97</td>
+<td>699</td>
+<td>10</td>
+</tr>
+
+</table>
+</body>
+</html>
+
+=============================
+Questão 6
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<table = border "1">
+<tr>
+<th>Processador</th>
+<th>Velocidade</th>
+<th>Preco de lancamento</th>
+<th>Data de lancamento</th>
+<th>Preços em Agosto</th>
+<th>Queda</th>
+
+</tr>
+<tr>
+<td>Amd k-6</td>
+<td>200</td>
+<td>315</td>
+<td>Abril/97</td>
+<td>107</td>
+<td>66</td>
+</tr>
+
+<tr>
+<tr>
+<td>AMD k-6</td>
+<td>233</td>
+<td>437</td>
+<td>Maio/97</td>
+<td>284</td>
+<td>35</td>
+</tr>
+
+
+<tr>
+<td>Cyrix 6x86</td>
+<td>200</td>
+<td>240</td>
+<td>Maio/97</td>
+<td>188</td>
+<td>22</td>
+</tr>
+
+
+<tr>
+<td>Cyrix 6x86</td>
+<td>233</td>
+<td>320</td>
+<td>maio/97</td>
+<td>290</td>
+<td>9</td>
+</tr>
+
+<tr>
+<td>Intel Pentium ll</td>
+<td>233</td>
+<td>636</td>
+<td>Maio/97</td>
+<td>530</td>
+<td>17</td>
+</tr>
+
+<tr>
+<td>Intel Pentium ll</td>
+<td>266</td>
+<td>775</td>
+<td>Maio/97</td>
+<td>699</td>
+<td>10</td>
+</tr>
+
+</table>
+
+</body>
+</html>
+
+=============================
+Questão 7
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<table border "1"
+<tr>
+<th>Cod</th>
+<th>Descriçao </th>
+<th></th>
+</tr>
+
+<tr>
+<td>001</td>
+<td></td>
+<td>Frango</td>
+<td>Rs10,00</td>
+</tr>
+
+<tr>
+<td>002</td>
+<td></td>
+<td>Frango</td>
+<td>Rs15,00</td>
+</tr>
+
+<tr>
+<td>001</td>
+<td></td>
+<td>Pato</td>
+<td>Rs12,00</td>
+</tr>
+
+<tr>
+<td>002</td>
+<td></td>
+<td>frango</td>
+<td>Rs15,00</td>
+</tr>
+
+<tr>
+<td>003</td>
+<td></td>
+<td>Pato</td>
+<td>Rs6,00</td>
+</tr>
+
+<tr>
+<td>002</td>
+<td></td>
+<td>peixe</td>
+<td>Rs9,00</td>
+</tr>
+
+<tr>
+<td colspan= "3"rowspan="4"> Referencia de Códigos</td>
+<th>COD</th>
+<th> funcao</th>
+</tr>
+
+<tr>
+<td>001</td>
+<td>Assado</td>
+</tr>
+
+<tr>
+<td>002</td>
+<td>Grelhado</td>
+</tr>
+
+<tr>
+<td>003</td>
+<td>Ao molho</td>
+</tr>
+
+
+</table>
+</body>
+</html>
+
+=============================
+Questão 9
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1> Entre em contato</h1>
+<body><form>
+<input type="type" name="fname" placeholder="Tiago Vale"> Nome<br>
+<p>
+<input type="type" name="fname" placeholder="(61)00000-0000"> Fone<br>
+<p>
+<input type="type" name="fname" placeholder="email@gmail.com"> Email<br>
+<p>
+<input type="type" name="fname" placeholder="Deixe sua opinião"> <br>
+<p>
+<input type="submit" value="Enviar">
+
+</form>
+
+</body>
+</html>
+=============================
+Questão 10
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<input type="button">
+<p>
+<input type="checkbox">
+<p>
+<input type="color">
+<p>
+<input type="date">
+<p>
+<input type="datetime-local">
+<p>
+<input type="email">
+<p>
+<input type="file">
+<p>
+<input type="hidden">
+<p>
+<input type="image">
+<p>
+<input type="month">
+<p>
+<input type="password">
+<p>
+<input type="radio">
+<p>
+<input type="range">
+<p>
+<input type="reset">
+<p>
+<input type="search">
+<p>
+<input type="submit">
+<p>
+<input type="tel">
+<p>
+<input type="text">
+<p>
+<input type="time">
+<p>
+<input type="url">
+<p>
+<input type="week">
+<p>
+</body>
+</html>
+
+
+=============================
